@@ -1,0 +1,23 @@
+/* Write your code here. */
+.game-status {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.button {
+  background-color: #ffec27;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 15px;
+  text-align: center;
+}
+
+.current-score {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.score-value {
+  color: #ffffff;
+}
